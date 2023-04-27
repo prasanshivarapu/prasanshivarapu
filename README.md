@@ -4,8 +4,8 @@
 - 💞️ My skills are for frontend:-html,css,javascript
 - Backend:-python,nodejs,expressJs
 - Database:-Sql
-- 📫 How to reach me mobile number:-+918688859874 
-- mailId:-prasan.shivarapu@gmail.com
+- 📫 How to reach me mobile number 📱:-+918688859874 
+- mailId 📩:-prasan.shivarapu@gmail.com
 
 <!---
 prasanshivarapu/prasanshivarapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
