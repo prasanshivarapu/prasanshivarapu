@@ -4,6 +4,7 @@
 - 💞️ My skills are for frontend:-html,css,javascript
 - Backend:-python,nodejs,expressJs
 - Database:-Sql
+- React.js is going on
 - 📫 How to reach me mobile number 📱:-+918688859874 
 - mailId 📩:-prasan.shivarapu@gmail.com
 
